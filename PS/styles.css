@@ -1,3 +1,32 @@
+@keyframes hatter
+{
+    25%
+    {
+        background-color: yellow;
+    }
+    50%
+    {
+        background-color: lightyellow;
+    }
+    75%
+    {
+        background-color:yellow;
+    }
+    100%
+    {
+        background-color: lightyellow;
+    }
+}
+
+body
+{
+    animation-name:hatter;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in;
+}
+
 header
 {
     text-align: center;
@@ -51,32 +80,4 @@ footer
     color: black;
     background-color: cornflowerblue;
     text-align: center;
-}
-@keyframes hatter
-{
-    25%
-    {
-        background-color: yellow;
-    }
-    50%
-    {
-        background-color: lightyellow;
-    }
-    75%
-    {
-        background-color:yellow;
-    }
-    100%
-    {
-        background-color: lightyellow;
-    }
-}
-
-body
-{
-    animation-name:hatter;
-    animation-duration:10s;
-    animation-iteration-count: infinite;
-    animation-direction: normal;
-    animation-timing-function: ease-in;
 }
