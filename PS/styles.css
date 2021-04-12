@@ -30,19 +30,20 @@ div a
     border-radius: 10px;
 }
 
-ul
+table
 {
-    list-style-type: none;
+    margin: auto;
 }
 
-li
+td
 {
     text-align: center;
 }
 
-li img
+td img
 {
-    width: 300px;
+    width: 400px;
+    height: 250px;
 }
 
 footer
