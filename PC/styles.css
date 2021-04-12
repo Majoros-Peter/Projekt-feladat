@@ -1,0 +1,61 @@
+header
+{
+    text-align: center;
+}
+
+header img
+{
+    height: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+header div
+{
+    display: inline-block;
+    margin: auto;
+	width: 10em;
+	font-size: 1.3em;
+	border: 4px ridge black;
+	border-radius: 1em;
+	padding: 0.25em;
+    background-color: grey;
+}
+
+div a
+{
+    width: 300px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+li
+{
+    text-align: center;
+}
+
+li img
+{
+    width: 300px;
+}
+
+article p
+{
+    margin: auto;
+    text-align: justify;
+    max-width: 1000px;
+}
+
+footer
+{
+    color: black;
+    background-color: cornflowerblue;
+    text-align: center;
+}

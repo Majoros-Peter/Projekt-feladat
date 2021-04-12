@@ -1,0 +1,80 @@
+nav
+{
+    text-align: center;
+}
+
+nav ul li
+{
+	display: inline-block;
+	width: 10em;
+	font-size: 1.3em;
+	border: 4px ridge black;
+	border-radius: 1em;
+	padding: 0.25em;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#ps
+{
+    background-color: blue;
+    transition: 1s;
+}
+
+#ps :hover
+{
+    font-weight: bolder;
+}
+
+#xbox
+{
+    background-color: rgb(75, 200, 70);
+    transition: 1s;
+}
+
+#xbox :hover
+{
+    font-weight: bolder;
+}
+
+#pc
+{
+    background-color: grey;
+    transition: 1s;
+}
+
+#pc :hover
+{
+    font-weight: bolder;
+}
+
+img
+{
+    width: 250px;
+    border: black ridge 2px;
+}
+
+article
+{
+    text-align: justify;
+    position: relative;
+    font-size: 15px;
+}
+
+table
+{
+    max-width: 1000px;
+    margin: auto;
+    border-spacing: 30px;
+}
+
+footer
+{
+    color: black;
+    background-color: cornflowerblue;
+    text-align: center;
+}
