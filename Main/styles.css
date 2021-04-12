@@ -33,6 +33,7 @@ body
     background-color: rgb(0, 255, 0);
     border:10px solid rgb(0, 255, 0);
     position: absolute;
+    top: 325px;
     animation-duration:10s;
     animation-iteration-count: infinite;
     animation-direction: normal;
@@ -44,6 +45,7 @@ body
     background-color: lightskyblue;
     border:10px solid lightskyblue;
     position: absolute;
+    top: 145px;
     animation-duration:10s;
     animation-iteration-count: infinite;
     animation-direction: normal;
@@ -55,6 +57,7 @@ body
     background-color: rgb(141, 139, 139);
     border:10px solid rgb(141, 139, 139);
     position: absolute;
+    top:520px;
     animation-duration:10s;
     animation-iteration-count: infinite;
     animation-direction: normal;
