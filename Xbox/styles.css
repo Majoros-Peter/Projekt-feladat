@@ -59,6 +59,12 @@ div a
     border-radius: 10px;
 }
 
+h1
+{
+    font-size: 50px;
+    text-align: center;
+}
+
 table
 {
     margin: auto;
