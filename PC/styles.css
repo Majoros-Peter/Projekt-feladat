@@ -2,19 +2,19 @@
 {
     25%
     {
-        background-color: yellow;
+        background-color: grey;
     }
     50%
     {
-        background-color: lightyellow;
+        background-color: lightgray;
     }
     75%
     {
-        background-color:yellow;
+        background-color:grey;
     }
     100%
     {
-        background-color: lightyellow;
+        background-color: lightgray;
     }
 }
 
